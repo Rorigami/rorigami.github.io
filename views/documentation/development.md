@@ -60,7 +60,7 @@ void main() {
 ```
 
 What it does is it parses the configuration yml file and creates an instance of the `Application` class,
-located [here](https://github.com/rorigami/rorigami/blob/masterweb/app/application.dart).
+located [here](https://github.com/Rorigami/rorigami/blob/master/web/app/application/application.dart)
 
 From here on out, the constructor loads, the css stylesheets, header and footer, initializes the router and
 dispatches the requested view. Simple as that.
